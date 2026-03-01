@@ -1,4 +1,3 @@
-# yourusername
 # Hi 👋, I'm Ubaid Shamsudheen
 
 ### 💻 Aspiring Full Stack Developer | Machine Learning Enthusiast
