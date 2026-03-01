@@ -1,5 +1,7 @@
 # Hi 👋, I'm Ubaid Shamsudheen
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Focused;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 ### 💻 Aspiring Full Stack Developer | Machine Learning Enthusiast
 
 I am a passionate developer focused on building modern web applications and intelligent systems. Currently working on real-time phishing detection using Machine Learning and Chrome Extension integration.
